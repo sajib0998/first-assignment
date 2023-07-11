@@ -16,7 +16,7 @@
     width: 335px;
     height: 500px;
     flex-shrink: 0;
-    margin-bottom: -15px;
+    margin-top:15px ;
 }
 .month{
     margin: 0px 150px;
